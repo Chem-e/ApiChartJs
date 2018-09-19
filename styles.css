@@ -1,0 +1,14 @@
+body{
+	background-image:  url("1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: black;
+}	
+#myChart{
+	height: 450px !important;
+	width: 100%;
+
+}
+.container{
+	text-decoration-color: white !important;
+}
